@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Hi there ! 
+
+__This is the GitHub page of an architect who likes to date his computer__
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LOWERTOP&show_icons=true&theme=transparent)
 
 <!--
 **LOWERTOP/LOWERTOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
