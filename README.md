@@ -1,6 +1,6 @@
-## 👋 Hi there ! 
+## 👋 [Hi there !](https://github.com/LOWERTOP/Shadowrocket-First/)
 
-__This is the GitHub page of an architect who loves to date his computer__
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=6000&color=2982FF&center=false%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=false%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&repeat=false%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&random=true%C2%A0%E7%9C%9F%E7%9A%84&width=435&lines=An+architect+who+loves+to+date+his+computer.)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LOWERTOP&show_icons=true&theme=transparent)
 
