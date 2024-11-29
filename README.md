@@ -1,6 +1,6 @@
 ## 👋 Hi there ! 
 
-__This is the GitHub page of an architect who likes to date his computer__
+__This is the GitHub page of an architect who loves to date his computer__
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LOWERTOP&show_icons=true&theme=transparent)
 
