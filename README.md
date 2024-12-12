@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/refs/heads/main/img/01.png" width="100%" height="100%">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=6000&color=2982FF&center=false%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=false%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&multiline=true&repeat=true%C2%A0%E7%9C%9F%E7%9A%84&random=true%C2%A0%E7%9C%9F%E7%9A%84&width=435&lines=This+is+the+GitHub+page+of+an+architect+;who+loves+to+date+his+computer.)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LOWERTOP&show_icons=true&theme=transparent)
+
+<img src="https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/refs/heads/main/img/01.BTM.png" width="100%" height="100%">
 
 <!--
 **LOWERTOP/LOWERTOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
